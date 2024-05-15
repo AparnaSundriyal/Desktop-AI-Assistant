@@ -28,19 +28,19 @@ To use Jarvis:
 **
 Start the application.
 Enter the password.
-Say "wakeup" and wait for Jarvis to greet you.
+Say "wake up" and wait for Jarvis to greet you.
 Issue commands to Jarvis for performing various operations.
 
 
 **Usage Example**
 
-Enter Password: ********
-Jarvis: Hello! How can I assist you today?
-User: What's the weather like today?
-Jarvis: The weather is sunny with a high of 75°F.
-User: Open YouTube and play funny cat videos.
-Jarvis: Opening YouTube and playing funny cat videos.
-Feel free to adjust any part of the README profile according to your preferences or if you have any additional information you'd like to include!
+- Enter Password: ********
+- Jarvis: Hello! How can I assist you today?
+- User: What's the weather like today?
+- Jarvis: The weather is sunny with a high of 75°F.
+- User: Open YouTube and play funny cat videos.
+- Jarvis: Opening YouTube and playing funny cat videos.
+
 
 
 
