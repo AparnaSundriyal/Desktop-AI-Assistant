@@ -10,26 +10,25 @@ A voice assistant, also known as an intelligent personal assistant, is a softwar
 
 Jarvis offers the following features:
 
-Greeting: Jarvis greets users upon activation.
-Date, Time, and Weather: Provides current date, time, and weather information.
-Web Search: Searches the web using default browser.
-YouTube Search: Performs YouTube searches.
-Wikipedia Search: Looks up information on Wikipedia.
-Open Applications: Opens various applications like WhatsApp, VSCode, and Chrome.
-Play Music: Plays music on command.
-Tic-Tac-Toe Game: Allows users to play Tic-Tac-Toe.
-Schedule Management: Helps users schedule their day.
-Calculator Functionality: Acts as a calculator.
-Language Translation: Translates text into different languages.
+- Greeting: Jarvis greets users upon activation.
+- Date, Time, and Weather: Provides current date, time, and weather information.
+- Web Search: Searches the web using default browser.
+- YouTube Search: Performs YouTube searches.
+- Wikipedia Search: Looks up information on Wikipedia.
+- Open Applications: Opens various applications like WhatsApp, VSCode, and Chrome.
+- Play Music: Plays music on command.
+- Tic-Tac-Toe Game: Allows users to play Tic-Tac-Toe.
+- Schedule Management: Helps users schedule their day.
+- Calculator Functionality: Acts as a calculator.
+- Language Translation: Translates text into different languages.
 
 
-**How to Run
-To use Jarvis:
-**
-Start the application.
-Enter the password.
-Say "wake up" and wait for Jarvis to greet you.
-Issue commands to Jarvis for performing various operations.
+**How To use Jarvis:**
+
+- Start the application.
+- Enter the password.
+- Say "wake up" and wait for Jarvis to greet you.
+- Issue commands to Jarvis for performing various operations.
 
 
 **Usage Example**
